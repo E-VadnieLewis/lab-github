@@ -1,8 +1,7 @@
 # GitHub Practice Questions
 
 1. **When was GitHub first launched, and who were its original founders?**
-
-   \`\`\`
+   \`\`\`April 2008
    \`\`\`
 
 2. **What is a 'pull request' in the context of GitHub, and how is it commonly used?**
